@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Chaozheng Wang, a master student of Harbin Institute of Technology, Shenzhen.
+My name is Chaozheng Wang, a master student of Harbin Institute of Technology, Shenzhen. My supervisor is [Cuiyun Gao](https://cuiyungao.github.io/). I am applying for the PhD now. My research interests lie in software engineering and artificial intelligence.
 
 ### Publications
 
