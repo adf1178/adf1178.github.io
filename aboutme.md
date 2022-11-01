@@ -20,3 +20,17 @@ My name is Chaozheng Wang, a master student of Harbin Institute of Technology, S
 - CRaDLe: Deep code retrieval based on semantic dependency learning
   - Wenchao Gu, Zongjie Li, Cuiyun Gao*, **Chaozheng Wang**, Hongyu Zhang, Zenglin Xu, Michael R Lyu
   - Neural Networks (**CCF B**, **JCR Q1**)
+
+### Internships
+- Tecent Co.ltd
+  - 2021.12 ~ Presnt 
+  - WXG, Testing Development Intern
+  - I am working for code completion models and image based automated GUI testing framework.
+- Huawei Co.ltd
+  - 2021.03 ~ 2021.9
+  - Noah Ark Lab, Technical Research Intern
+  - I explored long-tailed classification tasks.
+- LiDAR 4d Co.ltd
+  - 2020.07~2020.09
+  - Computer Vision Intern
+  - Working on object detection for industry scenarios.
