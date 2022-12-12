@@ -6,8 +6,17 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Chaozheng Wang, a master student of Harbin Institute of Technology, Shenzhen. My supervisor is [Cuiyun Gao](https://cuiyungao.github.io/). I am applying for the PhD now. My research interests lie in software engineering and artificial intelligence.
 
-### Publications
 
+### Publications
+- CCTEST: Testing and Repairing Code Completion Systems
+  - Zongjie Li, **Chaozheng Wang**, Zhibo Liu, Haoxuan Wang, Dong Chen, Shuai Wang, Cuiyun Gao
+  - ICSE 2023 Research Track (**CCF A**)
+- Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension
+  - Shuzheng Gao, Cuiyun Gao*, **Chaozheng Wang**, Jun Sun, David Lo, Yue Yu
+  - ICSE 2023 Research Track (**CCF A**)
+- Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models
+  - Shuzheng Gao, Hongyu Zhang, Cuiyun Gao*, **Chaozheng Wang**
+  - ICSE 2023 Research Track (**CCF A**)
 - Label-aware distribution calibration for long-tailed classification
   - **Chaozheng Wang**, Shuzheng Gao, Pengyun Wang, Cuiyun Gao*, Wenjie Pei, Lujia Pan, Zenglin Xu
   - IEEE Transactions on Neural Networks and learning systems (**CCF B**, **JCR Q1**)
